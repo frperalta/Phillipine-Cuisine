@@ -1,0 +1,210 @@
+html, body {
+  background-color: #04041a;
+  font-family:'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0; 
+  opacity:1;
+}
+
+/* Nav */
+
+.nav ul {
+  margin: 0 0 5 0px;
+  text-align: center;
+  background-color:#ede6e8;
+  border-radius:5px;
+  
+  
+}
+a:link{
+  text-decoration: none;
+  -webkit-transition:color 0.25s;
+  transition:color 0.25s;
+  display:inline-block;
+  color:#000;
+  text-transform:uppercase;
+}
+a:visited{
+  color:#000;
+}
+
+a:hover{
+  color:rgb(206, 169, 22);
+}
+
+
+.nav li {
+  -webkit-transition:color 0.25s;
+  transition:color 0.25s;
+  display:inline-block;
+  padding:30px 15px;
+  color:#000;
+  text-transform:uppercase;
+  
+}
+
+
+
+.nav img {
+  width:80px;
+  
+}
+/* Jumbotron */
+.jumbotron{
+  background-image:url("images/manila2.jpg");
+  background-size: cover;
+  background-repeat: none;
+  padding:160px 0px;
+   background-color: #fff;
+  height: 180px;
+  text-align: center;
+  text-transform:Uppercase;
+  opacity:0.85;
+
+}
+
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 70px;
+  margin:0;
+  font-family:'Sail';
+  font-style: ;
+  opacity:1;
+}
+
+
+/* Footer */
+
+.footer{
+  background-color: #ede6e8;
+  font-size: 12px;
+  text-align: center;
+  margin-top:30px; 
+  padding-bottom:30px;
+}
+
+#com{
+  color:rgba(102, 105, 163,1);
+}
+/* row */
+.row {
+  margin-top: 30px;
+
+
+
+}
+/*section*/
+.section {
+  color:#fff;
+}
+
+
+
+.section img {
+  width:500px;
+}
+
+  .img-responsive {
+    margin-bottom: 60px;
+    width: 500px;
+    height:250px;
+  }
+
+  /*about*/
+  .about{
+    padding-top:20px;
+    color:#000;
+    padding-bottom:20px;
+    opacity:.9;
+    margin-right:10px;
+    margin-left:10px;
+  }
+  .about p{
+    color: #fff;
+  }
+
+.about img{
+  width:500px;
+  height:570px;
+  
+}
+  .about h1,h2{
+    color:#113f1d;
+    border:1px solid;
+    border-radius:5px;
+    background-color:#fff;
+    margin-right:10px
+
+    
+  }
+
+
+  /*Jumbotron2*/
+.body2{
+  background-image:url("images/art.png");
+  opacity:1;
+  background-attachment:fixed;
+}
+
+.footer2{
+  background-color: #ede6e8;
+  font-size: 12px;
+  text-align: center; 
+  padding-bottom:30px;
+
+}
+/*Food*/
+.food{
+  opacity:1;
+  margin-top:0px;
+  word-spacing:1px;
+
+}
+.pa {
+  background-color: #04041a;
+  color:#fff;
+  
+  
+}
+.pa p {
+  padding:15px;
+  
+}
+
+  .about .col-md-6{
+    padding:50px 0px;
+    background-color: #04041a;
+  }
+ 
+  .pa img {
+    width: 100px;
+    padding:10px;
+  }
+
+  #food{
+    font-size: 50px;
+    text-align: center;
+    margin-left:10px;
+  }
+
+  #book{
+    width:100px;
+  }
+  #map{
+
+  }
+
+  .pa iframe{
+    margin-left:140px;
+  }
+  .back{
+    background-color: #04041a;
+    margin-right: 220px;
+    margin-left:220px;
+    background-position:fixed;
+  }
+    
+    
+
+  }
